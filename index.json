@@ -13776,6 +13776,11 @@
                       "regex":  "^bzzzt$"
                   },
                   {
+                      "name":  "Cassette Beasts",
+                      "file":  "jingles/steam/CassetteBeasts.wav",
+                      "regex":  "^cassette[^a-z0-9]*beasts$|^cassettebeasts$"
+                  },
+                  {
                       "name":  "Call of Duty: Modern Warfare (2019)",
                       "file":  "jingles/steam/CallofDutyModernWarfare2019.mp3",
                       "regex":  "^callofdutymodernwarfare2019$"
@@ -14181,6 +14186,11 @@
                       "regex":  "^geometry[^a-z0-9]*dash(?![^a-z0-9]*(?:(?:alt)))$|^geometrydash$"
                   },
                   {
+                      "name":  "Ghoul Scrapers",
+                      "file":  "jingles/steam/ghoulscrapers.ogg",
+                      "regex":  "^ghoul[^a-z0-9]*scrapers$|^ghoulscrapers$"
+                  },
+                  {
                       "name":  "Golden Warden",
                       "file":  "jingles/steam/Golden Warden.mp3",
                       "regex":  "^golden[^a-z0-9]*warden$|^goldenwarden$"
@@ -14479,6 +14489,11 @@
                       "name":  "Mewgenics",
                       "file":  "jingles/steam/Mewgenics.mp3",
                       "regex":  "^mewgenics$"
+                  },
+                  {
+                      "name":  "Mina The Hollower",
+                      "file":  "jingles/steam/Mina_The_Hollower (EvilMain).ogg",
+                      "regex":  "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$|^mth$"
                   },
                   {
                       "name":  "Minecraft - Story Mode",
@@ -15034,6 +15049,11 @@
                       "name":  "Three Fairies\u0027 Hoppin\u0027 Flappin\u0027 Great Journey",
                       "file":  "jingles/steam/Three Fairies\u0027 Hoppin\u0027 Flappin\u0027 Great Journey.mp3",
                       "regex":  "^three[^a-z0-9]*fairies[^a-z0-9]*[^a-z0-9]*hoppin[^a-z0-9]*[^a-z0-9]*flappin[^a-z0-9]*[^a-z0-9]*great[^a-z0-9]*journey$|^tfhfgj$"
+                  },
+                  {
+                      "name":  "Time Snatcher Handy",
+                      "file":  "jingles/steam/TimeSnatcherHandy.wav",
+                      "regex":  "^time[^a-z0-9]*snatcher[^a-z0-9]*handy$|^timesnatcherhandy$|^tsn$"
                   },
                   {
                       "name":  "Tomb Raider (2013)",
