@@ -6830,6 +6830,11 @@
                      "regex":  "^blazblue[^a-z0-9]*continuum[^a-z0-9]*shift[^a-z0-9]*(?:ii|2|two)$|^blazbluecontinuumshiftii$|^bcsi$"
                  },
                  {
+                     "name":  "BOXBOXBOY!",
+                     "file":  "jingles/n3ds/Boboxboy.mp3",
+                     "regex":  "^boxboxboy$"
+                 },
+                 {
                      "name":  "BOXBOY!",
                      "file":  "jingles/n3ds/boxboy.ogg",
                      "regex":  "^boxboy$"
@@ -6843,6 +6848,11 @@
                      "name":  "Bravely Second End Layer",
                      "file":  "jingles/n3ds/bravely-second-end-layer.ogg",
                      "regex":  "^bravely[^a-z0-9]*second[^a-z0-9]*end[^a-z0-9]*layer$|^bravelysecondendlayer$|^bsel$"
+                 },
+                 {
+                     "name":  "BYE-BYE BOXBOY!",
+                     "file":  "jingles/n3ds/Byebye boxboy.mp3",
+                     "regex":  "^bye[^a-z0-9]*bye[^a-z0-9]*boxboy$|^byebyeboxboy$"
                  },
                  {
                      "name":  "Captain Toad Treasure Tracker",
@@ -13976,6 +13986,11 @@
                       "regex":  "^dredge$"
                   },
                   {
+                      "name":  "Dr Fetus Mean Meat Machine",
+                      "file":  "jingles/steam/drfetusmeanmeatmachine.wav",
+                      "regex":  "^drfetusmeanmeatmachine$"
+                  },
+                  {
                       "name":  "Dr Robotniks Ring Racers",
                       "file":  "jingles/steam/DrRobotniksRingRacers.mp3",
                       "regex":  "^drrobotniksringracers$"
@@ -14166,6 +14181,11 @@
                       "regex":  "^gal[^a-z0-9]*guardians[^a-z0-9]*servants[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*dark$|^gal[^a-z0-9]*guardians[^a-z0-9]*servants[^a-z0-9]*dark$|^ggsd$"
                   },
                   {
+                      "name":  "Gambonanza",
+                      "file":  "jingles/steam/Gambonanza.ogg",
+                      "regex":  "^gambonanza$"
+                  },
+                  {
                       "name":  "Gang Beasts",
                       "file":  "jingles/steam/Gang Beasts.ogg",
                       "regex":  "^gang[^a-z0-9]*beasts$|^gangbeasts$"
@@ -14326,6 +14346,11 @@
                       "regex":  "^(?:i|1|one)[^a-z0-9]*am[^a-z0-9]*sakuya$|^iamsakuya$|^ias$"
                   },
                   {
+                      "name":  "Illusion Carnival",
+                      "file":  "jingles/steam/IllusionCarnival.wav",
+                      "regex":  "^illusion[^a-z0-9]*carnival$|^illusioncarnival$"
+                  },
+                  {
                       "name":  "Journey (Steam)",
                       "file":  "jingles/steam/Journey.ogg",
                       "regex":  "^journey(?![^a-z0-9]*(?:(?:silius)))$|^journey$"
@@ -14369,6 +14394,11 @@
                       "name":  "Leximan",
                       "file":  "jingles/steam/Leximan.mp3",
                       "regex":  "^leximan$"
+                  },
+                  {
+                      "name":  "LiEat",
+                      "file":  "jingles/steam/LiEat.mp3",
+                      "regex":  "^lieat$"
                   },
                   {
                       "name":  "Life is Strange Before the Storm",
@@ -14419,6 +14449,11 @@
                       "name":  "Myths are 100% True",
                       "file":  "jingles/steam/MA100%T.wav",
                       "regex":  "^myths[^a-z0-9]*are[^a-z0-9]*100[^a-z0-9]*true$|^mythsare100true$|^ma100t$"
+                  },
+                  {
+                      "name":  "MAHOUTEQ!",
+                      "file":  "jingles/steam/mahouteq.ogg",
+                      "regex":  "^mahouteq$"
                   },
                   {
                       "name":  "Mario 64 Port",
@@ -15044,6 +15079,11 @@
                       "name":  "THE FINALS",
                       "file":  "jingles/steam/the-finals.mp3",
                       "regex":  "^the[^a-z0-9]*finals$|^finals$|^thefinals$"
+                  },
+                  {
+                      "name":  "The Were Cleaner",
+                      "file":  "jingles/steam/thewerecleaner.ogg",
+                      "regex":  "^the[^a-z0-9]*were[^a-z0-9]*cleaner$|^were[^a-z0-9]*cleaner$|^thewerecleaner$"
                   },
                   {
                       "name":  "Three Fairies\u0027 Hoppin\u0027 Flappin\u0027 Great Journey",
